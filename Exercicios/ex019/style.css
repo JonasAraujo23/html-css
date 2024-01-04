@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/*
+  TUDO QUE EM HTML É (ID) EM CSS É (#)
+  E TUDO EM HTML É (CLASS) EM CSS É (.)
+*/
+body{
+    background-color: rgba(25, 202, 202, 0.342);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h1{
+  color: rgb(17, 230, 159);
+  text-align: center;
+}
+
+
+h2{
+  color: rgb(181, 238, 219);
+  text-align: center;
+}
+.basico{
+  color: rgb(125, 233, 18);
+  font-weight: bolder;
+  font-style: italic;
+}
+.intermediario{
+  color: rgb(57, 25, 201);
+  font-weight: bolder;
+  font-style: italic;
+}
+.avancado{
+  color: rgb(233, 18, 36);
+  font-weight: bolder;
+  font-style: italic;
+}

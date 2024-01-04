@@ -1,0 +1,15 @@
+p {
+    font-size: smaller;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-indent : 1.5rem;
+    color: rgb(212, 185, 31);
+    background-color: rgb(28, 88, 88);
+}
+h1,h2,h3{
+    
+    text-align: center;
+    text-transform: capitalize
+}
+
+    

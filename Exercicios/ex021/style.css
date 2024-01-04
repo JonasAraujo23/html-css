@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: black;
+    height: 300px;
+    width: 350px;
+    border-width: 25px;
+    border-style: inset;
+    border-color: rgb(35, 187, 187);
+    padding: 25px;
+    box-shadow: 2px 2px 2px 4px rgba(0, 0, 0, 0.74);
+    border-radius: 10px;
+}
+section{
+    background-color: rgb(223, 38, 38);
+}
